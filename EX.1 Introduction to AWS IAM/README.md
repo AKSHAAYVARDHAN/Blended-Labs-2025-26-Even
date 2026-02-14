@@ -70,6 +70,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Akshaay Vardhan S (212224220007)
-**Course:** Introduction to Cloud Computing  
+### **Name:** Akshaay Vardhan S (212224220007)
+### **Course:** Introduction to Cloud Computing  
 
